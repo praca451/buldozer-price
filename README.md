@@ -48,7 +48,7 @@ Target Variable: SalePrice (The actual sale price of the bulldozer)
 ```bash
 git clone https://github.com/praca451/buldozer-price.git
 cd bulldozer-price
----
+```
 
 2️⃣ ## Requirements
 
