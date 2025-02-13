@@ -8,14 +8,5 @@ seaborn
 scikit-learn
 RandomForestRegressor
 
-# Feature Engineering & Preprocessing
-category_encoders
-scipy
-
-# Time Series & Forecasting
-statsmodels
-pmdarima
-
-# Miscellaneous
-tqdm
-joblib
+# Time Series
+time
