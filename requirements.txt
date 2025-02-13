@@ -1,0 +1,21 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning & Data Processing
+scikit-learn
+RandomForestRegressor
+
+# Feature Engineering & Preprocessing
+category_encoders
+scipy
+
+# Time Series & Forecasting
+statsmodels
+pmdarima
+
+# Miscellaneous
+tqdm
+joblib
