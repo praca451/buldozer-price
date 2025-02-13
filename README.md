@@ -51,9 +51,9 @@ cd bulldozer-price
 
 pip install -r requirements.txt
 
-3️⃣ Run the main script:
+3️⃣ Run the Jupyter Notebook: 
 
-python main.py
+jupyter notebook Buldozer_Price_Prediction.ipynb
 
 
 #🔬 Results & Performance
