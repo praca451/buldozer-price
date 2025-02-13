@@ -42,6 +42,7 @@ Features: 50+ attributes like ModelID, YearMade, MachineHours, Enclosure, etc.
 Target Variable: SalePrice (The actual sale price of the bulldozer)
 
 🚀 How to Run the Project
+
 1️⃣ Clone the repository:
 
 git clone https://github.com/praca451/buldozer-price.git
@@ -56,7 +57,7 @@ pip install -r requirements.txt
 jupyter notebook Buldozer_Price_Prediction.ipynb
 
 
-#🔬 Results & Performance
+🔬 Results & Performance
 
 Model Used: Random Forest Regressor 
 
@@ -65,7 +66,7 @@ Evaluation Metric: Root Mean Squared Log Error (RMSLE)
 Best Model Accuracy: Achieved high accuracy in predicting bulldozer prices.
 
 
-#📌 Next Steps
+📌 Next Steps
 
 🔹 Improve feature engineering (handling missing values, outliers, categorical encoding)
 
