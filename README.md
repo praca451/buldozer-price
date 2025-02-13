@@ -45,18 +45,21 @@ Target Variable: SalePrice (The actual sale price of the bulldozer)
 
 1️⃣ Clone the repository:
 
+```bash
 git clone https://github.com/praca451/buldozer-price.git
 cd bulldozer-price
+---
 
 2️⃣ ## Requirements
 
 ```bash
 pip install -r requirements.txt
+---
 
 3️⃣ Run the Jupyter Notebook: 
-
+```bash
 jupyter notebook Buldozer_Price_Prediction.ipynb
-
+---
 
 🔬 Results & Performance
 
