@@ -1,11 +1,11 @@
-##📌 Project Overview
+📌 Project Overview
 
 This project builds a Machine Learning model to predict the future sale price of bulldozers based on their characteristics and historical sales data.
 
 The dataset contains nearly 400,000 examples with 50+ different features, making it a time-series forecasting problem.
 
 
-##🔍 Objective
+🔍 Objective
 
 The goal is to develop a model that accurately predicts bulldozer sale prices using a variety of features such as:
 
@@ -16,7 +16,7 @@ Historical sales data (past sale prices)
 Time-related features (year, month, sale date)
 
 
-##🛠 Technologies Used
+🛠 Technologies Used
 
 Python
 
@@ -31,7 +31,7 @@ Random Forest (Regression Models)
 Time Series Forecasting Techniques
 
 
-##📊 Dataset
+📊 Dataset
 
 📌 The dataset used for this project is from Kaggle’s "Blue Book for Bulldozers" competition.
 
@@ -41,7 +41,7 @@ Features: 50+ attributes like ModelID, YearMade, MachineHours, Enclosure, etc.
 
 Target Variable: SalePrice (The actual sale price of the bulldozer)
 
-##🚀 How to Run the Project
+🚀 How to Run the Project
 
 1️⃣ Clone the repository:
 
@@ -50,7 +50,7 @@ git clone https://github.com/praca451/buldozer-price.git
 cd bulldozer-price
 ```
 
-2️⃣ ## Requirements
+2️⃣ Requirements
 
 ```bash
 pip install -r requirements.txt
